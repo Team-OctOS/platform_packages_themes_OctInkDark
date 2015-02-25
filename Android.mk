@@ -19,7 +19,7 @@ include $(CLEAR_VARS)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := OctInk
+LOCAL_PACKAGE_NAME := OctInkDark
 #LOCAL_JAVA_LIBRARIES := framework-base
 LOCAL_SDK_VERSION := 21
 

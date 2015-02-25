@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	
+	<style name="OctInkTheme" parent="android:Theme.Material">
+		<item name="android:colorPrimary">#ff1f1f1f</item>
+		<item name="android:colorPrimaryDark">#ff1a1a1a</item>
+	
+	</style>
+</resources>

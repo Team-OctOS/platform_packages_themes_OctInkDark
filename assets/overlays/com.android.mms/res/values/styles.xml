@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Mms.apk's Styles-->
+
+<resources>
+    <style name="MmsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#ff1f1f1f</item>
+        <item name="android:colorPrimaryDark">#ff1a1a1a</item>
+        <item name="android:colorAccent">#ffE73E3B</item>
+    </style>
+</resources>

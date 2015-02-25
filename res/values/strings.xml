@@ -16,6 +16,9 @@
 -->
 
 <resources>
+
+    <string name="theme_name">OctOS Ink Dark</string>
     <string name="theme_author">Team OctOS</string>
-    <string name="theme_name">Oct Ink</string>
+    <string name="theme_email">teamoctos@gmail.com</string>
+
 </resources>

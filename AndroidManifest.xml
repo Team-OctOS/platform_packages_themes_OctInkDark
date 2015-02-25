@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--
  * Copyright (C) 2014 The CyanogenMod Project
  *
@@ -16,13 +16,19 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.oct.octink">
+    package="com.teamoctos.octinkdark">
 
-    <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
+    <uses-feature android:required="true" android:name="com.teamoctos.octinkdark" />
 
-    <application android:hasCode="false" android:icon="@drawable/ic_launcher" android:label="@string/theme_name">
-    </application>
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
 
     <meta-data android:name="org.cyanogenmod.theme.name" android:value="@string/theme_name"/>
-    <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author"/>
+    <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
+    <meta-data android:name="org.cyanogenmod.theme.email" android:value="@string/theme_email" />
+
+    <application android:hasCode="false"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/theme_name"/>
+
 </manifest>
