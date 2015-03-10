@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ActionBarOverflowButtonStyle" parent="@style/ActionBarOverflowButtonStyle1">
+
+    </style>
+	
+	<style name="ActionBarOverflowButtonStyle1" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_menu_moreoverflow_mtrl_alpha</item>
+    </style>
+	
+	<style name="AbstractComposeArea">
+        <item name="android:layout_gravity">center_horizontal</item>
+        <item name="android:background">@*common:color/black</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:animateLayoutChanges">true</item>
+    </style>
+	
+	<style name="WaitFragmentTitle" parent="@style/WaitFragmentTitleBase">
+        <item name="android:textAppearance">?android:textAppearanceLarge</item>
+        <item name="android:textColor">@*common:color/white</item>
+        <item name="android:layout_marginBottom">8.0dip</item>
+    </style>
+	
+	<style name="WaitFragmentTitleBase" parent="@android:style/Widget.Holo.TextView" />
+</resources>

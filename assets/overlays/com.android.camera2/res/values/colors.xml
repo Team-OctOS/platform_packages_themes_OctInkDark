@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="all_photos_grid_shadow">#ff12151D</color>
+    <color name="editor_info_overlay_background">#dd191f23</color>
+    <color name="default_background">#ff12151D</color>
+    <color name="albumset_background">#ff12151D</color>
+    <color name="album_background">#ff12151D</color>
+    <color name="photo_background">#ff12151D</color>
+    <color name="cache_background">#ff12151D</color>
+    <color name="slideshow_background">#ff12151D</color>
+    <color name="button_dark_transparent_background">#66191f23</color>
+    <color name="mode_list_settings_icon_pressed_background">#99191f23</color>
+
+    <color name="mode_selector_icon_background">#4c191f23</color>
+    <color name="mode_list_background">#00000000</color>
+    <color name="mode_list_settings_icon_background">#26191f23</color>
+    <color name="mode_cover_default_color">#ff12151D</color>
+    <color name="filmstrip_background">#ff12151D</color>
+
+
+
+
+    <color name="bottombar_unpressed">#ff12151D</color>
+    <color name="bottombar_pressed">#ff12151D</color>
+
+
+
+
+
+
+
+    <!--- actionbar color-->
+    <color name="main_color_global">#ff12151D</color>
+
+
+    <color name="settings_cling_color">#ff12151D</color>
+
+    <color name="camera_mode_color">#ffa0d0fc</color>
+
+    <color name="dashboard_background">#ff12151D</color>
+    <color name="actionbar">#ff12151D</color>
+    <color name="statusbar">#ff12151D</color>
+    <color name="navigationbar">#ff12151D</color>
+
+
+
+
+
+
+
+
+</resources>

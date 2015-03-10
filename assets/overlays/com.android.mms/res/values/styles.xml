@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--You are editing Mms.apk's Styles-->
-
 <resources>
-    <style name="MmsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:colorPrimary">#ff1f1f1f</item>
-        <item name="android:colorPrimaryDark">#ff1a1a1a</item>
-        <item name="android:colorAccent">#ffE73E3B</item>
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView">
+        <item name="android:overScrollMode">always</item>
+    </style>
+	
+	<style name="BackgroundOnlyTheme" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowNoDisplay">true</item>
+    </style>
+	
+	<style name="MmsTheme" parent="@android:style/Theme.Material">
+        <item name="android:actionBarStyle">@style/MmsActionBarStyle</item>
+        <item name="android:colorPrimary">@color/mms_theme_color</item>
+        <item name="android:colorPrimaryDark">@color/mms_theme_color_dark</item>
+        <item name="android:colorAccent">@color/mms_theme_color_accent</item>
+    </style>
+	
+	<style name="HeaderSpinnerDropDown" parent="@android:style/Widget.Material.DropDownItem.Spinner">
+        <item name="android:textColor">?android:textColorPrimaryInverse</item>
+    </style>
+	
+	<style name="MmsActionBarStyle" parent="@android:style/Widget.Material.ActionBar.Solid">
+        <item name="android:icon">@android:color/transparent</item>
+        <item name="android:background">@color/mms_theme_color</item>
+        <item name="android:elevation">@dimen/action_bar_elevation</item>
+    </style>
+	
+	<style name="HeaderTheme" parent="@android:style/ThemeOverlay.Material.Dark.ActionBar">
+        <item name="android:colorBackground">@*common:color/octink_2</item>
+        <item name="android:spinnerDropDownItemStyle">@style/HeaderSpinnerDropDown</item>
+        <item name="android:colorAccent">?android:textColorPrimary</item>
+        <item name="android:popupTheme">@android:style/ThemeOverlay.Material</item>
+    </style>
+	
+	<style name="ContactListFilterTheme" parent="@android:style/Theme.Holo">
+        <item name="android:listViewStyle">@style/ListViewStyle</item>
     </style>
 </resources>

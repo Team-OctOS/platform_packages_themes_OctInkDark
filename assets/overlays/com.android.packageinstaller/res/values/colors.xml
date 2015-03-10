@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow">#cc222222</color>
+    <color name="transparent">#00000000</color>
+
+
+
+    <color name="actionbar">#ff12151D</color>
+    <color name="statusbar">#ff12151D</color>
+    <color name="navigationbar">#ff12151D</color>
+
+    <color name="white">#ff009688</color>
+
+</resources>

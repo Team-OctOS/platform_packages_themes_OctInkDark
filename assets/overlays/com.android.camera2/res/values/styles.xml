@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Theme.CameraSettings" parent="@android:style/Theme.Material">
+    <item name="android:colorPrimaryDark">@color/mode_cover_default_color</item>
+    <item name="android:colorPrimary">@color/mode_cover_default_color</item>
+    <item name="android:windowBackground">@color/mode_cover_default_color</item>
+</style>
+
+
+
+    <style name="Theme.ProxyLauncher" parent="@android:style/Theme.Translucent.NoTitleBar" />
+    <style name="Theme.Camera" parent="@android:style/Theme.Material">
+        <item name="android:navigationBarColor">@color/navigationbar</item>
+        <item name="android:windowBackground">@color/dashboard_background</item>
+        <item name="android:colorPrimaryDark">#ff12151D</item>
+
+
+    </style>
+</resources>

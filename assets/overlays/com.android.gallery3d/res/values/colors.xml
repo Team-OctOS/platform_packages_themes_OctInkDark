@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--- Status bar and action bar colors -->
+    <color name="primary">#ff12151D</color>
+    <color name="primary_dark">#ff12151D</color>
+
+    <!--- Accent not sure where its used for now -->
+    <color name="accent">#ffa0d0fc</color>
+
+    <color name="background_screen">#ff12151D</color>
+    <color name="background_toolbar">#ff12151D</color>
+    <color name="background_main_toolbar">#ff12151D</color>
+   
+
+
+
+    <color name="default_background">#ff12151D</color>
+    <color name="albumset_background">#ff12151D</color>
+
+
+    <color name="albumset_label_background">#ee111111</color>
+
+    <color name="album_background">#ff12151D</color>
+    <color name="photo_background">#ff12151D</color>
+    <color name="cache_background">#ff12151D</color>
+    <color name="slideshow_background">#ff12151D</color>
+    
+    <color name="button_dark_transparent_background">#ff12151D</color>
+    
+    <color name="crop_shadow_color">#cf191f23</color>
+    <color name="crop_shadow_wp_color">#4f191f23</color>
+    <color name="state_panel_separation_line">#ff12151D</color>
+    <color name="filtershow_categoryview_background">#ff12151D</color>
+    <color name="filtershow_background">#ff12151D</color>
+    
+    
+    <color name="gradcontrol_point_shadow_start">#66191f23</color>
+    <color name="filtershow_stateview_end_background">#ff12151D</color>
+    <color name="material_blue_grey_950">#ff12151D</color>
+
+
+
+
+
+
+
+    <color name="popup_background">#ff252525</color>
+
+
+
+    <color name="merzee">#ff12151D</color>
+
+    <color name="review_control_pressed_fan_color">#3f191f23</color>
+    <color name="pano_progress_done">#ff12151D</color>
+
+
+
+
+
+
+
+
+</resources>

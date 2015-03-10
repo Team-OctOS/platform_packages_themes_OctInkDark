@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    
+    
+    <!--- All letter key background color light keyboard -->
+    <color name="key_background_lxx_light">#ffffffff</color>
+    <!--- All letter key background color dark keyboard -->
+    <color name="key_background_lxx_dark">#ff13171f</color>
+
+    <color name="theme_accent">@*common:color/octink_2</color> <!-- #ff00aa9a -->
+
+    <color name="gesture_trail_color_lxx_dark">@*common:color/white</color> <!-- #ff1b73bd -->
+    <color name="sliding_key_input_preview_color_lxx_dark">#B380CBC4</color>
+    <color name="highlight_color_lxx_dark">#ff1b73bd</color>
+
+    <color name="gesture_trail_color_lxx_light">#ff1b73bd</color>
+    <color name="sliding_key_input_preview_color_lxx_light">#b31b73bd</color>
+    <color name="highlight_color_lxx_light">#ff1b73bd</color>
+
+
+    <color name="theme_primary">#ff1b73bd</color>
+    <color name="theme_primary_dark">#ff1b73bd</color>
+
+
+    <color name="key_text_color_lxx_light">#ff13171f</color>
+    <color name="key_functional_text_color_lxx_light">#cc13171f</color>
+    <color name="key_text_inactive_color_lxx_light">#b313171f</color>
+    <color name="key_hint_letter_color_lxx_light">#b313171f</color>
+    <color name="language_on_spacebar_text_color_lxx_light">#b313171f</color>
+    <color name="auto_correct_color_lxx_light">#ff13171f</color>
+    <color name="typed_word_color_lxx_light">#d913171f</color>
+    <color name="suggested_word_color_lxx_light">#b313171f</color>
+
+
+  
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@style/Platform.AppCompat.Light1">
+
+    </style>
+	
+	<style name="Platform.AppCompat.Light1" parent="@android:style/Theme.Material">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+	
+	<style name="Platform.AppCompat.Light.Dialog" parent="@style/Platform.AppCompat.Light.Dialog1">
+
+    </style>
+	
+	<style name="Platform.AppCompat.Light.Dialog1" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+	
+	<style name="Base.ThemeOverlay.AppCompat.Light" parent="@style/Base.ThemeOverlay.AppCompat.Light1">
+
+    </style>
+	
+	<style name="Base.ThemeOverlay.AppCompat.Light1" parent="@android:style/ThemeOverlay.Material">
+        <item name="isLightTheme">true</item>
+        <item name="colorControlHighlight">@color/ripple_material_light</item>
+    </style>
+	
+	<style name="ConversationListFadeBase" parent="@android:style/Widget.Material.ListView" />
+	
+	<style name="MinTimeProgressViewStyle" parent="@android:style/Widget.Material.ProgressBar" />
+	
+	<style name="MinTimeProgressDialogStyleBase" parent="@android:style/Theme.Material.Dialog" />
+	
+	<style name="AbstractNewMessageButtonStyleBase" parent="@android:style/Widget.Material.Button" />
+	
+	<style name="AbstractVacationResponderDateSpinnerBase" parent="@android:style/Widget.Material.Spinner" />
+	
+	<style name="UnifiedEmailTheme" parent="@style/UnifiedEmailTheme1">
+
+    </style>
+	
+	<style name="UnifiedEmailTheme1" parent="@android:style/Theme.Material">
+        <item name="android:listViewWhiteStyle">@android:style/Widget.Material.ListView</item>
+        <item name="android:actionModeBackground">@color/action_mode_background</item>
+        <item name="android:actionOverflowButtonStyle">@style/ActionBarOverflowButtonStyle</item>
+        <item name="android:colorPrimary">@color/actionbar_color</item>
+        <item name="android:colorPrimaryDark">@color/statusbar_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+    </style>
+	
+	<style name="AccountSetupDialogActivityTheme" parent="@style/AccountSetupDialogActivityTheme1">
+
+    </style>
+	
+	<style name="AccountSetupDialogActivityTheme1" parent="@android:style/Theme.Material.Dialog.NoActionBar">
+        <item name="android:colorPrimary">@color/actionbar_color</item>
+        <item name="android:colorPrimaryDark">@color/statusbar_color</item>
+        <item name="android:colorAccent">@color/accent_blue</item>
+    </style>
+	
+
+</resources>

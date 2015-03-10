@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="albumset_background">#ff12151D</color>
+    <color name="albumset_placeholder">#ff252525</color>
+    
+    <color name="albumset_label_background">#ff12151D</color>
+    
+    <color name="albumset_label_title">#fffbfbfb</color>
+    <color name="albumset_label_count">#ffa9abad</color>
+    <color name="album_background">#ff12151D</color>
+    <color name="album_placeholder">#ff12151D</color>
+    <color name="photo_background">#ff12151D</color>
+    <color name="photo_placeholder">#ff12151D</color>
+    <color name="cache_background">#ff12151D</color>
+    <color name="cache_placeholder">#ff12151D</color>
+    <color name="bitmap_screennail_placeholder">#ff12151D</color>
+    <color name="slideshow_background">#ff12151D</color>
+    <color name="button_dark_transparent_background">#ff12151D</color>
+    <color name="ingest_highlight_semitransparent">#8833b5e5</color>
+    <color name="ingest_date_tile_text">#ff33b5e5</color>
+    <color name="fab">#ffa0d0fc</color>
+    <color name="floating_action_button_touch_tint">#ffa0d0fc</color>
+    <color name="floating_action_button_icon_color">#ffffffff</color>
+
+
+
+    <color name="merzee">#ff12151D</color>
+
+</resources>

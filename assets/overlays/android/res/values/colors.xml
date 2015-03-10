@@ -1,96 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<color name="battery_saver_mode_color">#ff000000</color>
-    <color name="user_icon_1">#ff1E88E5</color>
-    <color name="user_icon_2">#ff3f51b5</color>
-    <color name="user_icon_3">#ff4285f4</color>
-    <color name="user_icon_4">#ffe91e63</color>
-    <color name="user_icon_5">#ff0f9d58</color>
-    <color name="user_icon_6">#ff8bc34a</color>
-    <color name="user_icon_7">#ffff9800</color>
-    <color name="user_icon_8">#ffff5722</color>
-    <color name="system_notification_accent_color">#ff1f1f1f</color>
-    <color name="material_deep_teal_200">#ff1f1f1f</color>
-    <color name="material_deep_teal_500">#ff1f1f1f</color>
-    <color name="material_blue_grey_800">#ff1f1f1f</color>
-    <color name="material_blue_grey_900">#ff1f1f1f</color>
-    <color name="material_blue_grey_950">#ff1f1f1f</color>
-    <color name="notification_icon_bg_color">#ff1f1f1f</color>
-    <color name="background_material_dark">#ff1a1a1a</color>
-    <color name="background_material_light">#ffeeeeee</color>
-    <color name="background_floating_material_dark">#ff1a1a1a</color>
-    <color name="background_floating_material_light">#ffeeeeee</color>
-    <color name="primary_material_dark">#ff1f1f1f</color>
-    <color name="primary_material_light">#ffC8C8C8</color>
-    <color name="primary_dark_material_dark">#ff1a1a1a</color>
-    <color name="primary_dark_material_light">#ffBBBBBB</color>
-    <color name="ripple_material_dark">#40ffffff</color>
-    <color name="ripple_material_light">#401f1f1f</color>
-    <color name="accent_material_light">#ffE73E3B</color>
-    <color name="accent_material_dark">#ffE73E3B</color>
-    <color name="button_material_dark">#ff202020</color>
-    <color name="button_material_light">#ffeeeeee</color>
-    <color name="switch_thumb_normal_material_dark">#ff9E9E9E</color>
-    <color name="switch_thumb_normal_material_light">#ffFAFAFA</color>
-    <color name="switch_thumb_disabled_material_dark">#ffFFEE58</color>
-    <color name="switch_thumb_disabled_material_light">#ffEEEEEE</color>
-    <color name="notification_icon_bg_color">#ff212121</color> -->
-
-    <color name="holo_blue_bright">#ff00ddff</color>
-    <color name="holo_blue_dark">#ff0099cc</color>
-    <color name="holo_blue_light">#ff33b5e5</color>
-    <color name="background_holo_dark">#ff232429</color>
-    <color name="background_holo_light">#fff3f3f3</color>
-    <color name="bright_foreground_holo_dark">@color/background_holo_light</color>
-    <color name="bright_foreground_holo_light">@color/background_holo_dark</color>
-    <color name="bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
-    <color name="bright_foreground_disabled_holo_light">#ffb2b2b2</color>
-    <color name="bright_foreground_inverse_holo_dark">@color/bright_foreground_holo_light</color>
-    <color name="bright_foreground_inverse_holo_light">@color/bright_foreground_holo_dark</color>
-    <color name="dim_foreground_holo_dark">#ffbebebe</color>
-    <color name="dim_foreground_disabled_holo_dark">#80bebebe</color>
-    <color name="dim_foreground_inverse_holo_dark">#ff323232</color>
-    <color name="dim_foreground_inverse_disabled_holo_dark">#80323232</color>
-    <color name="hint_foreground_holo_dark">#ff808080</color>
-    <color name="dim_foreground_holo_light">#ff323232</color>
-    <color name="dim_foreground_disabled_holo_light">#80323232</color>
-    <color name="dim_foreground_inverse_holo_light">#ffbebebe</color>
-    <color name="dim_foreground_inverse_disabled_holo_light">#80bebebe</color>
-    <color name="hint_foreground_holo_light">#ff808080</color>
-    <color name="highlighted_text_holo_dark">#6633b5e5</color>
-    <color name="highlighted_text_holo_light">#6633b5e5</color>
-    <color name="link_text_holo_dark">#ff5c5cff</color>
-    <color name="link_text_holo_light">#ff0000ee</color>
-
+    <color name="background_floating_material_dark">@*common:color/octink_2</color>
+    <color name="background_material_dark">@*common:color/black</color>
     <color name="material_deep_teal_200">#ff7f7f7f</color>
     <color name="material_deep_teal_500">#ff5f5f5f</color>
-    <color name="button_material_dark">#ff212121</color>
-    <color name="background_material_dark">#ff1a1a1a</color>
-    <color name="primary_material_dark">#ff1f1f1f</color>
-    <color name="background_floating_material_dark">#ff0f0f0f</color>
+    <color name="highlighted_text_material_light">@*common:color/holo_blue_light_66</color>
+    <color name="ripple_material_dark">@*common:color/holo_blue_light_40</color>
+    <color name="ripple_material_light">@*common:color/holo_blue_light_40</color>
+    <color name="primary_text_default_material_light">@*common:color/octink_9</color>
+    <color name="secondary_text_default_material_light">#ffbbbbbb</color>
+    <color name="primary_text_default_material_dark">@*common:color/white</color>
+    <color name="secondary_text_default_material_dark">#ffbbbbbb</color>
+    <color name="primary_material_dark">#ff141920</color>
+    <color name="highlighted_text_material_dark">@*common:color/holo_blue_light_66</color>
+    <color name="datepicker_default_normal_text_color_material_light">#ff999999</color>
+    <color name="datepicker_default_disabled_text_color_material_light">#80999999</color>
+    <color name="datepicker_default_disabled_text_color_material_dark">#80999999</color>
+    <color name="datepicker_default_selected_text_color_material_light">#ff00AA9A</color>
+    <color name="datepicker_default_selected_text_color_material_dark">#ff00AA9A</color>
+    <color name="datepicker_default_pressed_text_color_material_light">#ffef6100</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">#ffef6100</color>
+    <color name="datepicker_default_view_animator_color_material_light">#fff2f2f2</color>
+    <color name="datepicker_default_view_animator_color_material_dark">#ff303030</color>
+    <color name="bright_foreground_material_light">#ffaaaaaa</color>
+    <color name="bright_foreground_disabled_material_light">#ffaaaaaa</color>
+    <color name="button_material_light">#ff41505b</color>
 
-    <color name="battery_saver_mode_color">@*common:color/primary_color_500</color>
-
-    <color name="notification_icon_bg_color">#ff232429</color>
-    <color name="notification_action_color_filter">#ffffffff</color>
-    <color name="notification_media_primary_color">#ffffffff</color>
-    <color name="notification_media_secondary_color">#ffffffff</color>
-    <color name="system_notification_accent_color">@*common:color/primary_color_500</color>
-
-    <color name="primary_text_default_material_light">#de000000</color>
-    <color name="secondary_text_default_material_light">#8a000000</color>
-    <color name="primary_text_default_material_dark">#ffffffff</color>
-    <color name="secondary_text_default_material_dark">#ffffffff</color>
-
-    <color name="colorEdgeEffect">@*common:color/primary_color_80</color>
-    <color name="ripple_material_dark">@*common:color/primary_color_80</color>
-    <color name="ripple_material_light">@*common:color/primary_color_80</color>
-
-    <!-- Layout -->
-    <color name="notification_material_action_textcolor">#ffffffff</color>
-    <color name="notification_template_material_big_picture_background_color">#ff1f1f1f</color>
-
-    <color name="notification_big_picture_bg">#ff232429</color>
-    <color name="notification_button_text">#ffffffff</color>
-
+    <color name="white">#ffffffff</color>	
+    <color name="resolver_list_bg">@color/white</color>
 </resources>

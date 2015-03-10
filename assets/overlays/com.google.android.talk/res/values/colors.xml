@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Hangout's Colors-->
+<!--LAST REVISED ON: 5:31AM EST 17/02/2015-->
+
+<resources>
+	<!--Main Colors for Hangouts-->
+    <color name="quantum_googgreen700">@*common:color/octink_2</color>
+    <!-- #ff00aa98 -->
+    <color name="quantum_googgreen500">@*common:color/octink_2</color>
+    <!-- #ff00aa98 -->
+    <color name="quantum_googgreen400">#ff777777</color>
+	<color name="default_status_bar_color">@*common:color/octink_2</color>
+	<!-- #ff00aa98 -->
+	<color name="bg_item_touch_feedback">#64000000</color>
+
+	<!--People in this hangout inside People & Options-->
+	<color name="conversation_name">#ff777777</color>
+	<color name="participant_name">#ff777777</color>
+	
+	<!--Primary and Secondary Colors-->
+    <color name="primary_text_default_material_dark">@android:color/white</color>
+    <color name="secondary_text_default_material_dark">@android:color/white</color>
+    <color name="primary_text_disabled_material_dark">@android:color/white</color>
+    <color name="secondary_text_disabled_material_dark">@android:color/white</color>
+
+	<!--Resend, Contacts titles, Phone Number Text Colors-->
+    <color name="text_default_color_dark">#ff888888</color>
+    <color name="text_secondary_default_color_dark">#ff888888</color>
+    <color name="text_tertiary_default_color_dark">#ff888888</color>
+    <color name="primary">@color/quantum_googgreen500</color>
+    <color name="tab_background_color">#ff212021</color>
+    <color name="tab_text_color">#ffffffff</color>
+	
+	<!--Getting rid of Material Colors-->
+	<color name="accent">@*common:color/octink_2</color>
+        <!--#ff00aa98-->
+	<color name="quantum_teal500">@*common:color/octink_2</color> 
+	<!--#ff00aa98-->
+	<color name="material_deep_teal_500">#ff777777</color>
+	
+	<!--Text and Attachment background-->
+    <color name="realtimechat_message_text">@android:color/white</color>
+    <color name="realtimechat_message_timestamp">#ff777777</color>
+    <color name="realtimechat_message_text_otr">@android:color/white</color>
+    <color name="realtimechat_message_timestamp_otr">#ff777777</color>
+    <color name="realtimechat_message_textlink">#ff5e5e5e</color>
+    <color name="realtimechat_message_byline_failed">#ffff0000</color>
+    <color name="realtimechat_system_information_foreground">@android:color/white</color>
+    <color name="realtimechat_system_error_foreground">#ffff0000</color>
+    <color name="time_since">#ff777777</color>
+    <color name="last_message">#ff777777</color>
+	
+	<!--Conversation background, bar backgrounds-->
+    <color name="button_bar_background">@*common:color/octink_2</color> <!--#ff00aa98-->
+    <color name="ongoing_hangout_background">#ff212021</color>
+    <color name="hangout_present_banner_background">#ff212021</color>
+    <color name="conversation_bg_color">#ff212021</color>
+    <color name="compose_message_view_bg">#ff06080c</color>
+    <color name="compose_message_view_text_color">@android:color/white</color>
+    <color name="compose_message_view_text_color_otr">@android:color/white</color>
+    <color name="compose_message_view_hint_text_color">@android:color/white</color>
+    <color name="compose_message_view_hint_text_color_otr">@android:color/white</color>
+    <color name="attachment_name_background_color">#ff212021</color>
+    <color name="solid_green">@*android:color/background_material_dark</color>
+    <color name="transparent_green">#f2000000</color>
+    <color name="dark_green">@*android:color/background_material_dark</color>
+    <color name="light_green">#ffaaaaaa</color>
+    <color name="bg_item_normal_invite">#ff111111</color>
+    <color name="bg_item_pressed">#67555555</color>
+    <color name="section_header_color">@*common:color/black</color>
+    <color name="transparent_red">#f2111111</color>
+</resources>

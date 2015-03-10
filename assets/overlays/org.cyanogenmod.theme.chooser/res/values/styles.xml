@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing ThemeChooser.apk's Colors-->
+<!--LAST REVISED ON: 5:02PM EST 05/02/2015-->
+
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+    	<item name="android:actionModeBackground">@color/primary</item>
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:colorBackgroundCacheHint">@color/primary</item>
+    </style>
+</resources>

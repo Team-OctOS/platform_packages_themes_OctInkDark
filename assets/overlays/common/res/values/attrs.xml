@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="textColorPrimaryActivated" format="reference|color" />
+    <attr name="textColorSecondaryActivated" format="reference|color" />
+    <attr name="textColorSearchUrl" format="reference|color" />
+    <attr name="searchWidgetCorpusItemBackground" format="reference|color" />
+    <attr name="errorMessageBackground" format="reference" />
+    <attr name="errorMessageAboveBackground" format="reference" />
+    <attr name="searchResultListItemHeight" format="dimension" />
+    <attr name="dropdownListPreferredItemHeight" format="dimension" />
+    <attr name="windowActionBarFullscreenDecorLayout" format="reference" />
+    <attr name="alertDialogCenterButtons" format="boolean" />
+    <attr name="panelMenuIsCompact" format="boolean" />
+    <attr name="panelMenuListWidth" format="dimension" />
+    <attr name="panelMenuListTheme" format="reference" />
+    <attr name="gestureOverlayViewStyle" format="reference" />
+    <attr name="fragmentBreadCrumbsStyle" format="reference" />
+    <attr name="numberPickerStyle" format="reference" />
+    <attr name="activityChooserViewStyle" format="reference" />
+    <attr name="actionModePopupWindowStyle" format="reference" />
+    <attr name="preferenceActivityStyle" format="reference" />
+    <attr name="preferenceFragmentStyle" format="reference" />
+    <attr name="preferencePanelStyle" format="reference" />
+    <attr name="preferenceHeaderPanelStyle" format="reference" />
+    <attr name="preferenceListStyle" format="reference" />
+    <attr name="preferenceFragmentListStyle" format="reference" />
+    <attr name="preferenceFragmentPaddingSide" format="dimension" />
+    <attr name="seekBarPreferenceStyle" format="reference" />
+    <attr name="dialogTitleIconsDecorLayout" format="reference" />
+    <attr name="dialogCustomTitleDecorLayout" format="reference" />
+    <attr name="dialogTitleDecorLayout" format="reference" />
+    <attr name="toastFrameBackground" format="reference" />
+    <attr name="searchDialogTheme" format="reference" />
+    <attr name="preferenceFrameLayoutStyle" format="reference" />
+    <attr name="findOnPageNextDrawable" format="reference" />
+    <attr name="findOnPagePreviousDrawable" format="reference" />
+    <attr name="colorSwitchThumbNormal" format="color" />
+    <attr name="keyboardViewStyle" format="reference" />
+</resources>

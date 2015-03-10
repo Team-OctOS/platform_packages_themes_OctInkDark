@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_material_dark">#ff1f1f1f</color>
-    <color name="primary_material_light">#ff1f1f1f</color>
-    <color name="accent_material_light">#ff424242</color>
-    <color name="history_result">#ff424242</color>
-    <color name="calculator_accent_color">#ff1f1f1f</color>
-    <color name="pad_numeric_background_color">#ff1a1a1a</color>
-    <color name="pad_operator_background_color">#ff1f1f1f</color>
-    <color name="pad_advanced_background_color">#ff7f7f7f</color>
+
+    <!--status bar-->
+    <color name="calculator_accent_color">#ff0d2c37</color>
+
+    <!--ripple effect and extended background color and text color-->
+    <color name="ripple_material_dark">#f2337890</color>
+    <color name="ripple_material_light">#f2b0bec5</color>
+    <color name="pad_advanced_background_color">#ff0d2c37</color>
+    <color name="pad_button_ripple_color">#f20d2c37</color>
+    <color name="pad_button_advanced_ripple_color">#f20d2c37</color>
+    <color name="pad_advanced_text_color_normal">#ffffffff</color>
+    <color name="pad_advanced_text_color_disabled">#80000000</color>
+
+    <!--main background color-->
+    <color name="pad_numeric_background_color">#ff12151D</color>
+    <color name="pad_operator_background_color">#ff0d2c37</color>
+
+
+    <!--keeping main color-->
+    <color name="material_deep_teal_200">#ff12151D</color>
+    <color name="material_deep_teal_500">#ff12151D</color>
+    <color name="material_blue_grey_800">#ff12151D</color>
+    <color name="material_blue_grey_900">#ff12151D</color>
+    <color name="material_blue_grey_950">#ff12151D</color>
+
+
 </resources>
