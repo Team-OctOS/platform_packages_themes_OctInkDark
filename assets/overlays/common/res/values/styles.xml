@@ -101,7 +101,6 @@
         <item name="android:spinnerDropDownItemStyle">@*android:style/Widget.Material.DropDownItem.Spinner</item>
         <item name="android:dropDownHintAppearance">@*android:style/TextAppearance.Material.Widget.DropDownHint</item>
         <item name="android:spinnerItemStyle">@*android:style/Widget.Material.TextView.SpinnerItem</item>
-        <item name="android:preferenceScreenStyle">@*android:style/Preference.Material.PreferenceScreen</item>
         <item name="android:preferenceCategoryStyle">@*android:style/Preference.Material.Category</item>
         <item name="android:preferenceInformationStyle">@*android:style/Preference.Material.Information</item>
         <item name="android:preferenceStyle">@*android:style/Preference.Material</item>
@@ -376,7 +375,6 @@
         <item name="android:spinnerDropDownItemStyle">@*android:style/Widget.Material.Light.DropDownItem.Spinner</item>
         <item name="android:dropDownHintAppearance">@*android:style/TextAppearance.Material.Widget.DropDownHint</item>
         <item name="android:spinnerItemStyle">@*android:style/Widget.Material.TextView.SpinnerItem</item>
-        <item name="android:preferenceScreenStyle">@*android:style/Preference.Material.PreferenceScreen</item>
         <item name="android:preferenceCategoryStyle">@*android:style/Preference.Material.Category</item>
         <item name="android:preferenceInformationStyle">@*android:style/Preference.Material.Information</item>
         <item name="android:preferenceStyle">@*android:style/Preference.Material</item>
